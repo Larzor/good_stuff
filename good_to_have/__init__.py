@@ -1,1 +1,1 @@
-from good import getInputBetween
+from .good import getInputBetween
